@@ -1,0 +1,29 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    background-color: #7f8fa6;
+}
+.form-sign-up form {
+    margin: 100px 500px 30px;
+    padding: 20px 20px;
+    background-color:#192a56 ;
+    color: white;
+    font-family: "Montserrat",sans-serif;
+    font-size: 22px;
+    border: 2px solid #192a56;
+    border-radius: 3px ;
+    width: 400px;
+    height:500px;
+
+
+}
+.form-sign-up input{
+    border: 2px solid #487eb0;
+    border-radius: 2px;
+    width: 100%;
+    justify-content:space-between ;
+    text-align: center;
+    margin: 20px 10px;
+    padding: 10px;
+}

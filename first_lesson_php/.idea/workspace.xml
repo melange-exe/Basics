@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b0b24c50-583c-4a92-9cc3-891c7c3df1c5" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XNUBMh66UBnOLmjEbRmwbZu0eP" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\projects\first_lesson_php" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="example6.php" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/first_lesson_php/example6.php" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.example6.php" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b0b24c50-583c-4a92-9cc3-891c7c3df1c5" name="Default Changelist" comment="" />
+      <created>1580885910773</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580885910773</updated>
+      <workItem from="1580885916532" duration="7412000" />
+      <workItem from="1580971268916" duration="1261000" />
+      <workItem from="1581315912603" duration="7379000" />
+      <workItem from="1581489047658" duration="6838000" />
+      <workItem from="1581575469757" duration="4407000" />
+      <workItem from="1581661429439" duration="5896000" />
+      <workItem from="1581923347916" duration="3644000" />
+      <workItem from="1582006871853" duration="7868000" />
+      <workItem from="1582015694875" duration="902000" />
+      <workItem from="1582093936365" duration="2304000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="349" y="0" key="#PHP" timestamp="1581489469126">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="349" y="0" key="#PHP/0.0.1280.689@0.0.1280.689" timestamp="1581489469126" />
+    <state x="321" y="74" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1581316777691">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="321" y="74" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1280.689@0.0.1280.689" timestamp="1581316777691" />
+    <state x="479" y="245" width="355" height="217" key="Github.CreateGistDialog" timestamp="1582014231378">
+      <screen x="0" y="0" width="1280" height="686" />
+    </state>
+    <state x="479" y="245" width="355" height="217" key="Github.CreateGistDialog/0.0.1280.686@0.0.1280.686" timestamp="1582014231378" />
+    <state x="472" y="256" key="NewPhpFileDialog" timestamp="1582093945893">
+      <screen x="0" y="0" width="1280" height="686" />
+    </state>
+    <state x="472" y="256" key="NewPhpFileDialog/0.0.1280.686@0.0.1280.686" timestamp="1582093945893" />
+    <state x="472" y="257" key="NewPhpFileDialog/0.0.1280.689@0.0.1280.689" timestamp="1581923497529" />
+    <state x="142" y="0" key="SettingsEditor" timestamp="1581316033211">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="142" y="0" key="SettingsEditor/0.0.1280.689@0.0.1280.689" timestamp="1581316033211" />
+    <state x="303" y="10" width="672" height="678" key="search.everywhere.popup" timestamp="1581927441408">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="303" y="10" width="672" height="678" key="search.everywhere.popup/0.0.1280.689@0.0.1280.689" timestamp="1581927441408" />
+    <state x="367" y="258" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1582013441942">
+      <screen x="0" y="0" width="1280" height="686" />
+    </state>
+    <state x="367" y="258" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.0.1280.686@0.0.1280.686" timestamp="1582013441942" />
+  </component>
+</project>
